@@ -1,0 +1,13 @@
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.exe
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.deps.json
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.runtimeconfig.json
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.runtimeconfig.dev.json
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.dll
+D:\programing\SoftUni\izpit\02.MaidenParty\bin\Debug\netcoreapp3.1\02.MaidenParty.pdb
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.csprojAssemblyReference.cache
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.AssemblyInfoInputs.cache
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.AssemblyInfo.cs
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.dll
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.pdb
+D:\programing\SoftUni\izpit\02.MaidenParty\obj\Debug\netcoreapp3.1\02.MaidenParty.genruntimeconfig.cache

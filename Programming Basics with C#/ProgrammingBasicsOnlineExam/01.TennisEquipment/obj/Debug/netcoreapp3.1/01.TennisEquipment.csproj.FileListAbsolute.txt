@@ -1,0 +1,13 @@
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.exe
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.deps.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.dev.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.pdb
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.csprojAssemblyReference.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfoInputs.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfo.cs
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.pdb
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.genruntimeconfig.cache

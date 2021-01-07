@@ -1,0 +1,12 @@
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.exe
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.deps.json
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.json
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.dev.json
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.dll
+D:\programing\SoftUni\izpit\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.pdb
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfoInputs.cache
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfo.cs
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.dll
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.pdb
+D:\programing\SoftUni\izpit\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.genruntimeconfig.cache

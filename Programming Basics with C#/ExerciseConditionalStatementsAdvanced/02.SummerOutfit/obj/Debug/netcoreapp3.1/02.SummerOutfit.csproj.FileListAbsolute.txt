@@ -1,0 +1,12 @@
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\Programing\SoftUni\ExerciseConditionalStatementsAdvanced\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.exe
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.deps.json
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.runtimeconfig.json
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.runtimeconfig.dev.json
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.dll
+D:\programing\SoftUni\izpit\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.pdb
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.csprojAssemblyReference.cache
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.AssemblyInfoInputs.cache
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.AssemblyInfo.cs
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.dll
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.pdb
+D:\programing\SoftUni\izpit\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.genruntimeconfig.cache

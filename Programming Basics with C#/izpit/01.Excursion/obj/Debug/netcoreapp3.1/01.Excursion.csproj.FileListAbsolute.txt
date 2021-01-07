@@ -1,0 +1,13 @@
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.exe
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.deps.json
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.runtimeconfig.json
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.runtimeconfig.dev.json
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.dll
+D:\programing\SoftUni\izpit\01.Excursion\bin\Debug\netcoreapp3.1\01.Excursion.pdb
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.csprojAssemblyReference.cache
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.AssemblyInfoInputs.cache
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.AssemblyInfo.cs
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.dll
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.pdb
+D:\programing\SoftUni\izpit\01.Excursion\obj\Debug\netcoreapp3.1\01.Excursion.genruntimeconfig.cache

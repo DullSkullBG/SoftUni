@@ -1,0 +1,13 @@
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.exe
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.deps.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.dev.json
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.csprojAssemblyReference.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfoInputs.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfo.cs
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
+D:\programing\SoftUni\ProgrammingBasicsOnlineExam\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.genruntimeconfig.cache
